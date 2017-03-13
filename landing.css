@@ -1,0 +1,40 @@
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+
+.bgimg{
+  color: white;
+  background-color: orange;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.w3-display-topmiddle {
+  width: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: blue;
+}
+
+.w3-display-middle {
+  opacity: 0.3;
+  text-align: center;
+}
+
+.w3-display-bottommiddle {
+  width: 100%;
+}
+
+#search {
+  max-width: 40%;
+  margin: auto;
+}
+
+#footer a {
+  margin-right: 50px;
+  margin-left: 50px;
+}
